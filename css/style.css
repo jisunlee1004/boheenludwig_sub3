@@ -42,7 +42,7 @@ background-color: #f2e0d2;border-bottom: 1px solid #d2a679;
 .bannertext{color:#fff;padding: 70px 0 50px 300px;line-height: 60px;font-size: 28px;}
 .bannertext1{color: #4b220b;padding: 0 300px;font-size: 22px;}
 
-.best{width: 1320px;height:900px;margin: 0 auto;text-align: center;}
+#best{width: 1320px;height:900px;margin: 0 auto;text-align: center;}
 .best1{margin:20px 0;}
 .best2{color: #4b220b;
         font-size:30px;
@@ -60,7 +60,8 @@ background-color: #f2e0d2;border-bottom: 1px solid #d2a679;
 .btn{display:inline-block;border: 1px solid #ccc; padding: 5px 10px;margin-top:30px;font-weight: bold;border-radius: 10px;}
 .btn:hover {background: #ccc;}
 
-.been{width: 1320px;margin:100px auto;height:978px;}
+#been{width: 1320px;margin:100px auto;height:978px;}
+#been1{width: 1320px;margin:100px auto;height:978px;}
 .beentext{font-size: 20px;font-weight: bold;padding: 10px;display: inline-block;border-bottom: 3px solid #333;margin-bottom:100px; }
 .beenbox{margin:0 auto;height:900px;text-align: center;box-sizing: border-box;}
 .box1{width:322px;height: 800px; border:1px solid #ccc;margin-right: 5px;}
@@ -79,7 +80,7 @@ h5{color: #4b220b;font-size:20px;margin-top:30px;}
 .bt4{line-height: 25px;width: 332px;height: 125px;}
 
 
-.goods{width: 1320px;margin: 0 auto;height: 560px;}
+#goods{width: 1320px;margin: 0 auto;height: 560px;}
 /* .goodsul{background: url(../images/icon1.png) no-repeat top center;} 
 .goodsul li{float:left; margin-left:10px;} */
 
